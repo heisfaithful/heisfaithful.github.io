@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "Why a blog? And why the title?"
-date: 2020-01-04
+date:   2020-01-04 20:16:59 -0800
+categories: blogging faith
+author: David L. Mobley
 ---
-
 A decade or more ago, I wrote a blog for a year or two. I've always enjoyed writing, and this was no different. I covered a wide range of topics, from politics, to science and faith issues and Christian apologetics, to current events and even aspects of theology. However, my writing lacked real purpose, unless it was to make a name for myself within some circle of blogs.
 
 Well, eventually life intervened, priorities changed, and I gradually stopped blogging. In hindsight, I think this was a good thing, as I was far too concerned about how many people were reading and what they thought about what I had to say. As I said, if I had a purpose, it was to make a name for myself, or because I enjoyed it.
