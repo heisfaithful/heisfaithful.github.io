@@ -4,7 +4,7 @@ title: About "He is Faithful"
 permalink: /about/
 ---
 
-"He is faithful" was started in January, 2020, borne out of David Mobley's growing conviction that he ought to write more, as explained in the [first post on this blog](https://heisfaithful.github.io/blog/2020/01/04/opening).
+"He is faithful" was started in January, 2020, borne out of David Mobley's growing conviction that he ought to write more, as explained in the [first post on this blog](../blogging/faith/2020/01/04/opening.html).
 It covers a range of topics at the whim of the author(s), but on the whole seeks to testify to God's glory and faithfulness, from a Biblical perspective.
 
 **Audience:** "He is Faithful" typically aims at a Bible-believing
