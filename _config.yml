@@ -28,11 +28,15 @@ twitter_username: davidlmobley
 github_username:  davidlmobley
 tagline: A Christian Blog
 author: David L. Mobley
+google_analytics: UA-156420822-1
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+# Show post excerpts
+show_excerpts: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
