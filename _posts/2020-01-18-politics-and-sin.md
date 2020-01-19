@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Losing sight of sin results in a divided society"
-date:   2020-01-16
+date:   2020-01-18
 categories: politics
 author: David L. Mobley
 ---
@@ -19,4 +19,4 @@ This same line of thinking also leads to bloated laws. If something unfair or un
 
 The Bible says otherwise. Because of Adam and Eve's rejection of God in the beginning, our world -- and all its inhabitants -- is deeply affected by sin. No human system, however well designed, can change that. We will still have crime, poverty, suffering, and hardship. Yes, good laws and just leaders can reduce problems and improve circumstances, but even with the absolute best this world has to offer we still will suffer.
 
-So, let's not join those around us in blaming this world's problems on social structures, political parties, and leaders. Let's put the blame squarely where it belongs: Sin. Because of the sin of humankind, our world is filled with problems and suffering. Our only hope is the great promise that one day Jesus will come again to set everything right, bringing a new heavens and a new earth. Only then will there no longer be any mourning or crying or pain (Rev. 21:4). Until then, the world around us will remain broken, as we, ourselves, will also. 
+So, let's not join those around us in blaming this world's problems on social structures, political parties, and leaders. Let's put the blame squarely where it belongs: Sin. Because of the sin of humankind, our world is filled with problems and suffering. Our only hope is the great promise that one day Jesus will come again to set everything right, bringing a new heavens and a new earth. Only then will there no longer be any mourning or crying or pain (Rev. 21:4). Until then, the world around us will remain broken, as we, ourselves, will also.
