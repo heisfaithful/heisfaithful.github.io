@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   “He is Faithful”, a Christian blog, covers a range of topics relating to Christian faith, practice, and thought. It is run by David L. Mobley.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://heisfaithful.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: davidlmobley
+twitter_username: heisfaithful2
 github_username:  davidlmobley
 tagline: A Christian Blog
 author: David L. Mobley
