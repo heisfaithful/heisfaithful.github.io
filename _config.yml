@@ -35,6 +35,12 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Disqus comments
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: he-is-faithful
+
 # Show post excerpts
 show_excerpts: true
 
