@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why God wants me to be a member of a church where I'm different"
-date:   2020-01-21
+date:   2020-01-24
 categories: church
 author: David L. Mobley
 ---
