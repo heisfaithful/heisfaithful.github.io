@@ -1,0 +1,24 @@
+---
+layout: post
+title: "The danger of 'Let's Google that'"
+date:   2020-01-28
+categories: culture
+author: David L. Mobley
+---
+Nowadays, we easily and instantly access a vast percentage of the world's knowledge online via a simple Google search. Gone are the days of browsing card catalogs and digging deep in the library to find out basics of a topic of interest. These changes empower us, give us access to vast stores of information, and can dramatically improve our quality of life in many areas.
+
+As a parent, I've given some thought to how this wealth of information may shape my kids' worldview. As soon as they have access to computers, they begin learning that if they want to know something, they can find out by searching for the answer -- and, indeed, we often *encourage* them to search out answers to simple questions on their own. When they ask, "What's the weather forecast?" I often suggest they look it up, or if they want to know any of a host of other random facts I once learned but no longer store in my brain. Most of the time, learning how to research things and find their own answers benefits them.
+
+However, internet searches don't present truth or an unbiased view of reality; rather, they have their own dangers. Results are shaped by the prevailing worldview. You can probably guess what will happen if you search for, say, "When should I get a divorce?" Most of the top articles see divorce as something which is no big deal, an option to be considered in many marriages -- in contrast to the Biblical view, which sees it as a last resort only in certain very extreme situations. The second hit, as I write this, is from Woman's Day and gives this as a key reason to pursue divorce: "You find that you’re asking all of the questions." Yes, if you ask far more questions than your spouse, you should consider divorce, it seems.
+
+In other words, Google searches are not a fount of Biblical wisdom, and we know it. Yes, searching for information on the **right topics** in the right way can yield truly helpful Biblical wisdom -- but such wisdom won't be at the forefront, not on most topics.
+
+This raises a real danger, I think. If your kids are like mine, they're likely learning to resort to an internet search *first* when they want to know something -- but what comes to the forefront in such searches  is often not just unbiblical but anti-biblical. Think about what will come to the forefront if they search for advice on sex or sexuality, or relationships to authority, or men and women's roles, or any of a host of other topics where our culture's prevailing "wisdom" goes against that of Scripture. The top hits from Google promote our culture's views. As adults with experience, we likely already know what kinds of searches will produce results which are helpful versus those which yield results which promote a particular agenda. But our kids don't.
+
+What, then, do we do? I'm not sure, but I'm convinced that there are a couple of key ingredients. First, we need to ensure our kids are comfortable talking with us about real issues, so that if they want to know something, they won't *just* Google it but they'll also come to us about it. I suppose that also means we need to be wise, and worth consulting, otherwise they'll just bypass us. This also calls for real patience -- if I get annoyed because my kids are asking me questions about the Constitution that they could easily Google, are they going to trust me to react well when they ask me questions about sexuality that they think they could also easily Google?
+
+Second, I think we need to warn our kids about these dangers -- that information comes with a worldview, and that worldview may not agree with the Bible. I've talked to them about how Google is great for looking up facts, but if they want to know what things mean, or how they ought to act, it will often lead them astray. In other words, if we want to look up a fact, an internet search is often great for that, but if we want to know what something *means* or how it *ought to be*, we often need to look elsewhere or at least need to be a lot more careful. I'm probably overdue to go over a refresher of these ideas with them again.
+
+I don't think the right answer for this is to simply try and keep our kids away from internet searches. Internet permeates our society, and they're now expected to be able to do internet research for school and elsewhere. Instead, we must prepare them to recognize truth and falsehood, I think, and to know the difference between looking up facts and being taught a worldview. Facts are useful; worldviews are to be recognized and carefully and critically examined.
+
+Is there more we can and should be doing to prepare our kids for the torrential flow of information that is the Internet? What do we do and how? What are your thoughts?
