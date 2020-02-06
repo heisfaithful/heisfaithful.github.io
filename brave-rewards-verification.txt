@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: heisfaithful.github.io
+Token: a241ea9743570b723ba5b431f3f56944a4078a62185b7f754409639b1291a6bd
