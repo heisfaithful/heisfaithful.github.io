@@ -45,7 +45,7 @@ disqus:
 show_excerpts: true
 
 # include brave rewards thing
-include: [".well_known"]
+include: [".well-known"]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
