@@ -2,7 +2,7 @@
 layout: post
 title: "What we want our kids to know about worldviews"
 date:   2020-02-05
-categories: worldview
+categories: faith
 author: David L. Mobley
 ---
 
