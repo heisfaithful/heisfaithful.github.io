@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What we want our kids to know about worldviews"
+title: "How I became a Christian, and how it shapes my life"
 date:   2020-02-05
 categories: faith
 author: David L. Mobley
