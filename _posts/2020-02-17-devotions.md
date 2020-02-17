@@ -96,3 +96,7 @@ It seems Machowski, who did Long Story Short and Old Story New and The Ology, al
 It helps to ask questions and engage with the kids; if you read something, try and ask questions about it afterwards as it helps with retention. Also, we often find there are profound personal applications of the "simple" spiritual truths presented in children's books.
 
 Also, in our case, our church has a great children's ministry and is already doing a lot with our kids. Thus, it can be great to start by just reviewing and building on what the education department is already doing with our kids.
+
+## Share your thoughts
+
+Please use the comments section to recommend other materials you use which are helpful or to share your thoughts on what has worked well or doesn't work well.
