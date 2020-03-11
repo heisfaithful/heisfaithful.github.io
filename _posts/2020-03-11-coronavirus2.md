@@ -38,4 +38,6 @@ Another friend who wrote me connected this with loving our neighbors, and this i
 
 I'm not saying to panic, or to run out and buy masks. In fact don't do that. I'm not saying we ought to eliminate all contact with other people, or skip joining with God's people to worship (though maybe there are ways that we can modify these to reduce risks). But I am saying that we ought to eliminate optional events, especially those that involve contact with significant numbers of people and in close quarters. Move anything you can to a virtual format. Wash hands frequently. Don't shake hands.
 
-Most importantly, anyone who is sick in the slightest way ought to stay away from others until it's confirmed they don't have COVID-19. Don't carry on as if it's life as normal, until this passes and we're confident that we CAN return to life as normal.
+Pray for our leaders -- our church leaders and those of our institutions, businesses, governments, and even families. They have hard decisions to make, and need real wisdom. And pray for God to use even this for his glory.
+
+Practically, anyone who is sick in the slightest way ought to stay away from others until it's confirmed they don't have COVID-19. Don't carry on as if it's life as normal, until this passes and we're confident that we CAN return to life as normal.
