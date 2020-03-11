@@ -1,10 +1,12 @@
 ---
 layout: post
-title: A couple thoughts on the coronavirus, COVID-19 
+title: A couple thoughts on the coronavirus, COVID-19
 date:   2020-02-27
 categories: current events
 author: David L. Mobley
 ---
+
+*Update March 11, 2020: The situation now appears [far more serious and I have an updated post on this](https://heisfaithful.github.io/current/events/2020/03/11/coronavirus2.html).**
 
 Folks are very concerned about the Coronavirus (COVID-19) epidemic. New diseases are scary, so I understand the concern, and certainly the possibility of a worldwide devastating epidemic of something like Ebola or similar can be terrifying. However, I wanted to pass on a couple of quick thoughts -- including the fact that this, so far, does not appear to be one of those epidemics that ought to be especially terrifying.
 
