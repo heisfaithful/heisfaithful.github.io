@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A couple thoughts on the coronavirus, COVID-19
+title: We need to take the coronavirus very seriously
 date:   2020-03-11
 categories: current events
 author: David L. Mobley
