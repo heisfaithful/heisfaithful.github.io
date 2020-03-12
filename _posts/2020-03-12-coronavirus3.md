@@ -37,3 +37,7 @@ A colleague wrote this on Twitter:
 ## Some tips on transmission
 
 A colleague (Peter Kasson) who has been reading the ECDC, CDC, and WHO-China reports passed along this info via Facebook which seemed useful: Most transmission is from droplets at close range, or surfaces (then touching your eyes/nose/mouth). The key idea then is to avoid close-range droplet transmission and touching contaminated surfaces and then your face. This leads to things like the six-foot guidelines, etc.
+
+## Don't panic, but do take action.
+
+I stand by what I've [written previously](https://heisfaithful.github.io/current/events/2020/03/11/coronavirus2.html); I don't want people to panic. We're not all going to die as a result. But we have a chance to reduce how severe this is going to be, so I'm advocating that we act as much as possible to do so -- and try to get those around us and our school systems to also take it seriously. As a Christian, I also believe each of us can trust God even in the midst of this uncertainty and turmoil, because our future is already safe and secure in his hands. But we should still take the actions we can, while also carefully considering our hearts -- we need to act with prudence and care, not out of terror. 
