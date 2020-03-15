@@ -21,3 +21,10 @@ It seems like what we're dealing with is a virus that can be severe in some case
 Overall, let's not panic, but let's also exercise reasonable care about illness. As [two ditch theory](https://heisfaithful.github.io/theology/2020/02/20/ditches.html) suggests, we could err in both directions. Neither would be wise. Life goes on, and we need to not cut ourselves off from society out of fear of infection -- but it is reasonable to exercise some caution.
 
 Finally, if we are Christians, we can trust to the great promises of Romans 8:28f -- that God works all things for the ultimate, eternal good of those who love him. While worldwide epidemics are terrible, and they seem especially so to us if they touch those we love, they do not overcome God's promises or mean he is not trustworthy. So let's remember that and cast our cares and concerns on God, so that we have peace and are able to shine as lights in the midst of this time of great concern.
+
+---
+
+Other posts in this series:
+- [https://heisfaithful.github.io/current/events/2020/03/11/coronavirus2.html](Take it very seriously) (post 2)
+- [https://heisfaithful.github.io/current/events/2020/03/12/coronavirus3.html](A couple more thoughts/concerns about schools) (post 3)
+- [https://heisfaithful.github.io/current/events/2020/03/15/coronavirus4.html](Tell your friends to take action) (post 4)

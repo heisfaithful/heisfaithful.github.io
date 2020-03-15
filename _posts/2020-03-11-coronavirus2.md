@@ -41,3 +41,10 @@ I'm not saying to panic, or to run out and buy masks. In fact don't do that. I'm
 Pray for our leaders -- our church leaders and those of our institutions, businesses, governments, and even families. They have hard decisions to make, and need real wisdom. And pray for God to use even this for his glory.
 
 Practically, anyone who is sick in the slightest way ought to stay away from others until it's confirmed they don't have COVID-19. Don't carry on as if it's life as normal, until this passes and we're confident that we CAN return to life as normal.
+
+---
+
+Other posts in this series:
+- [https://heisfaithful.github.io/current/events/2020/02/27/coronavirus.html](A couple thoughts/trust God) (post 1)
+- [https://heisfaithful.github.io/current/events/2020/03/12/coronavirus3.html](A couple more thoughts/concerns about schools) (post 3)
+- [https://heisfaithful.github.io/current/events/2020/03/15/coronavirus4.html](Tell your friends to take action) (post 4)

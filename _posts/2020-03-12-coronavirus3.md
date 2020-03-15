@@ -40,4 +40,11 @@ A colleague (Peter Kasson) who has been reading the ECDC, CDC, and WHO-China rep
 
 ## Don't panic, but do take action.
 
-I stand by what I've [written previously](https://heisfaithful.github.io/current/events/2020/03/11/coronavirus2.html); I don't want people to panic. We're not all going to die as a result. But we have a chance to reduce how severe this is going to be, so I'm advocating that we act as much as possible to do so -- and try to get those around us and our school systems to also take it seriously. As a Christian, I also believe each of us can trust God even in the midst of this uncertainty and turmoil, because our future is already safe and secure in his hands. But we should still take the actions we can, while also carefully considering our hearts -- we need to act with prudence and care, not out of terror. 
+I stand by what I've [written previously](https://heisfaithful.github.io/current/events/2020/03/11/coronavirus2.html); I don't want people to panic. We're not all going to die as a result. But we have a chance to reduce how severe this is going to be, so I'm advocating that we act as much as possible to do so -- and try to get those around us and our school systems to also take it seriously. As a Christian, I also believe each of us can trust God even in the midst of this uncertainty and turmoil, because our future is already safe and secure in his hands. But we should still take the actions we can, while also carefully considering our hearts -- we need to act with prudence and care, not out of terror.
+
+---
+
+Other posts in this series:
+- [https://heisfaithful.github.io/current/events/2020/02/27/coronavirus.html](A couple thoughts/trust God) (post 1)
+- [https://heisfaithful.github.io/current/events/2020/03/11/coronavirus2.html](Take it very seriously) (post 2)
+- [https://heisfaithful.github.io/current/events/2020/03/15/coronavirus4.html](Tell your friends to take action) (post 4)

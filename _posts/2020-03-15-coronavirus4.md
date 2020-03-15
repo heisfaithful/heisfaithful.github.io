@@ -81,3 +81,10 @@ If you like math and analysis, [Jason Warner's long facebook post](https://www.f
 This might seem implausible, but think about it this way: What if you have a cough and a sore throat right now, probably a cold that you caught a few days ago? If it's COVID-19 and you've had it five days, you're now starting to show symptoms. In a few more days, perhaps you might begin feeling sick enough to go to the hospital and get tested -- or perhaps it'll just go away and you'll never even know if you've had COVID-19. Only if you actually (a) get really sick, and (b) go get tested (once testing catches up) will we find out that you had it. Otherwise, you don't even show up in the statistics. And even if you do, it's not until long after you actually caught the virus. So it's easy to see how the number of reported cases could be 50x lower than the actual number.
 
 Currently [Johns Hopkins is showing 3200 cases in the US](https://coronavirus.jhu.edu/map.html) -- again, from very ill people -- which likely means we have well over 160000 cases around the country.
+
+---
+
+Other posts in this series:
+- [https://heisfaithful.github.io/current/events/2020/02/27/coronavirus.html](A couple thoughts/trust God) (post 1)
+- [https://heisfaithful.github.io/current/events/2020/03/11/coronavirus2.html](Take it very seriously) (post 2)
+- [https://heisfaithful.github.io/current/events/2020/03/12/coronavirus3.html](A couple more thoughts/concerns about schools) (post 3)
