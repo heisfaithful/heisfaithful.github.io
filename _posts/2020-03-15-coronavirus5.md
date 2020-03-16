@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Staying connected while social distancing: How can we cope?
+title: Staying connected while social distancing -- How can we cope?
 date:   2020-03-15
 categories: current events
 author: David L. Mobley
