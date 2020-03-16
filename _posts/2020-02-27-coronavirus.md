@@ -28,3 +28,4 @@ Other posts in this series:
 - [https://heisfaithful.github.io/current/events/2020/03/11/coronavirus2.html](Take it very seriously) (post 2)
 - [https://heisfaithful.github.io/current/events/2020/03/12/coronavirus3.html](A couple more thoughts/concerns about schools) (post 3)
 - [https://heisfaithful.github.io/current/events/2020/03/15/coronavirus4.html](Tell your friends to take action) (post 4)
+- [https://heisfaithful.github.io/current/events/2020/03/15/coronavirus5.html](Staying connected while practicing social distancing) (post 5)

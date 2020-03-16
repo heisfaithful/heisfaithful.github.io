@@ -88,3 +88,4 @@ Other posts in this series:
 - [https://heisfaithful.github.io/current/events/2020/02/27/coronavirus.html](A couple thoughts/trust God) (post 1)
 - [https://heisfaithful.github.io/current/events/2020/03/11/coronavirus2.html](Take it very seriously) (post 2)
 - [https://heisfaithful.github.io/current/events/2020/03/12/coronavirus3.html](A couple more thoughts/concerns about schools) (post 3)
+- [https://heisfaithful.github.io/current/events/2020/03/15/coronavirus5.html](Staying connected while practicing social distancing) (post 5)
