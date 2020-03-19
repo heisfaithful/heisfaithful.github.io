@@ -39,6 +39,13 @@ I know lots of people are suddenly homeschooling, or have their kids at home, an
 
 We also homeschool, so I'm also happy to field questions and pass them on to my wife who has considerable experience in this area (since we have five kids who are homeschooled).
 
+On the homeschooling front, friends also shared:
+- [Emergency learning plan](https://www.amblesideonline.org/HELP.shtml) -- a free homeschooling curriculum that is somewhat tailored towards emergencies.
+- ["Amazing Educational Resources"](http://www.amazingeducationalresources.com/) - list of free learning resources online; most temporary due to school closings.
+Be sure you're aware of Khan Academy, which is great for many things at many levels.
+
+Our friend Sharon Tseng also has a list of [helpful resources](https://lifewiththetsengs.home.blog/2020/03/17/keeping-the-kids-busy-covid-19-version/). Some are focused on education, others more on fun.
+
 ## Ideas for staying connected as adults
 
 There are a variety of good tools for videochats with significant numbers of people. I tend to prefer Zoom, though this requires a paid membership for calls longer than 40 minutes. Google Hangouts, Slack, and Facebook Messenger are other reasonable options in addition to Skype. Are there others?
@@ -51,6 +58,8 @@ How do we use these to stay connected?
 
 What else? Please use the comments section to share your ideas.
 
+
+**Editorial note: I updated March 19 to add several additional links.**
 ---
 
 Other posts in this series:
