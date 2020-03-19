@@ -46,3 +46,9 @@ So, I want to let this idea of Acts 2 and 4 sink in so I'll be ready to help tho
 I hope all of us can join together in watching for needs in the midst of the economic turmoil caused by COVID-19. Not everyone will be called to meet those needs; some are already out of their jobs and on unemployment or are part of the gig economy where all income dried up immediately. But not everyone is called to play the same role in this crisis. 1 Cor. 12:14f discusses the many members of the body and how they have different roles -- one might be a hand, one might be an eye, etc. So it is here -- one may be called to be an eye in the sense of noticing needs, another a hand in terms of actually delivering to meet that need, and another might be called to provide financially. It'll take all of us, working together, to care for God's church and to reach out in aid to the broader community in need around us.
 
 My prayer is that God will help me see how he's calling me to help in this time personally, and I hope we can all join together in asking how God wants us to serve him in this time -- and how we can corporately care for the church body and help the broader community.
+
+---
+
+*Update: My friend Blaize [has a post up on how Hurricane Katrina prepared him for this](https://heisfaithful.github.io/church/2020/03/19/church-and-coronavirus.html) which touches some of the same ideas at the end; one of his conclusions is this:
+> the best thing I can do and that we all can do is help one another...
+*
