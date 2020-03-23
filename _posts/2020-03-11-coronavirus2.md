@@ -45,7 +45,8 @@ Practically, anyone who is sick in the slightest way ought to stay away from oth
 ---
 
 Other posts in this series:
-- [https://heisfaithful.github.io/current/events/2020/02/27/coronavirus.html](A couple thoughts/trust God) (post 1)
-- [https://heisfaithful.github.io/current/events/2020/03/12/coronavirus3.html](A couple more thoughts/concerns about schools) (post 3)
-- [https://heisfaithful.github.io/current/events/2020/03/15/coronavirus4.html](Tell your friends to take action) (post 4)
-- [https://heisfaithful.github.io/current/events/2020/03/15/coronavirus5.html](Staying connected while practicing social distancing) (post 5)
+- [A couple thoughts/trust God](https://heisfaithful.github.io/current/events/2020/02/27/coronavirus.html) (post 1)
+- [A couple more thoughts/concerns about schools](https://heisfaithful.github.io/current/events/2020/03/12/coronavirus3.html) (post 3)
+- [Tell your friends to take action](https://heisfaithful.github.io/current/events/2020/03/15/coronavirus4.html) (post 4)
+- [Staying connected while practicing social distancing](https://heisfaithful.github.io/current/events/2020/03/15/coronavirus5.html) (post 5)
+- [Worshipping together while apart](https://heisfaithful.github.io/church/2020/03/22/coronavirus6.html) (post 6 -- on church worship when separated)
