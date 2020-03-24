@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Worshipping together while apart
+title: Coronavirus links and analysis I find helpful
 date:   2020-03-24
 categories: current events
 author: David L. Mobley
@@ -41,7 +41,7 @@ At a very high and perhaps oversimplified level, the UK study argued that the ma
 
 Pueyo's article, which is worth reading in full when you can spare a chunk of time, argues for a different strategy: An initial phase of extreme lockdown to get the epidemic in control and determine which measures are most effective, then a release of restrictions broad enough to bring back some kind of normality while still restrictive enough to keep the epidemic in control. That will require learning a lot in the interim -- so the initial restrictive phase partly needs to buy us time to learn what we need to manage this. A sample plot from his analysis is given above.
 
-I'm told there's a petition on the White House site urging leadership to consider a strategy like that proposed by Pueyo, but I haven't found it yet. 
+I'm told there's a petition on the White House site urging leadership to consider a strategy like that proposed by Pueyo, but I haven't found it yet.
 
 ---
 
