@@ -12,10 +12,8 @@ As a bit of a statistics and numbers geek, I wanted to provide a set of links to
 
 One key resource is the [Johns Hopkins tracking dashboard](https://coronavirus.jhu.edu/map.html), which has case load overlaid on a world map and also has access to all of the underlying data. It's a nice graphical panel with quite a few statistics overlaid, so it's helpful to get an at-a-glance view of where things stand now. One news item: For those who didn't catch it, the rest of the world has now far passed China in cases.
 
-![Coronavirus case load](https://twitter.com/jburnmurdoch/status/1242225650125193219/photo/1)
-
 The Hopkins dashboard, however, doesn't give the plots I find the most helpful. For those, I like these resources better:
-- [The Financial Times](https://www.ft.com/coronavirus-latest) plots: These were behind a paywall until yesterday and only available on Twitter, but now everyone can see them. I find the case trajectory plots (sample above) especially helpful as these provide an easy way to compare growth rate in different countries. If you're on Twitter, you can follow @jburnmurdoch for updates on this analysis.
+- [The Financial Times](https://www.ft.com/coronavirus-latest) plots: These were behind a paywall until yesterday and only available on Twitter, but now everyone can see them. I find the case trajectory plots (which I unfortunately can't embed here, but you should look) especially helpful as these provide an easy way to compare growth rate in different countries. If you're on Twitter, you can follow @jburnmurdoch for updates on this analysis.
 - [COVID19 dashboards](https://covid19dashboards.com/): This is a rather diverse set of plots and analysis using open source tools; in some cases, links to source code are available. Most of this draws on the Hopkins data. Some particularly helpful ones:
     - [Overview panel](https://covid19dashboards.com/covid-overview/)
     - [Case and death growth over time by country](https://covid19dashboards.com/covid-compare-permillion/)
