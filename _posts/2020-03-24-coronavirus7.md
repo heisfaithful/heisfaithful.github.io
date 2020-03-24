@@ -41,6 +41,8 @@ Pueyo's article, which is worth reading in full when you can spare a chunk of ti
 
 I'm told there's a petition on the White House site urging leadership to consider a strategy like that proposed by Pueyo, but I haven't found it yet.
 
+*UPDATE: Former FDA commissioner [Scott Gottlieb has a really nice Twitter thread on this](https://twitter.com/ScottGottliebMD/status/1242282560106958854) -- there's no return to normal until we end the epidemic.)*
+
 ---
 
 Other posts in my coronavirus series:
