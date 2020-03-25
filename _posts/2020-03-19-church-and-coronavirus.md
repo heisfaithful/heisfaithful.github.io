@@ -52,3 +52,5 @@ My prayer is that God will help me see how he's calling me to help in this time 
 *Update: My friend Blaize [has a post up on how Hurricane Katrina prepared him for this](https://heisfaithful.github.io/church/2020/03/19/church-and-coronavirus.html) which touches some of the same ideas at the end; one of his conclusions is this:
 > the best thing I can do and that we all can do is help one another...
 *
+
+*Update 2: Here are some [concrete ideas for ways to love others in this time](https://www.thegospelcoalition.org/article/love-neighbor-pandemic/)
