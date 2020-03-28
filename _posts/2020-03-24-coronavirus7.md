@@ -53,3 +53,4 @@ Other posts in my coronavirus series:
 - [Tell your friends to take action](https://heisfaithful.github.io/current/events/2020/03/15/coronavirus4.html) (post 4)
 - [Staying connected while practicing social distancing](https://heisfaithful.github.io/current/events/2020/03/15/coronavirus5.html) (post 5)
 - [Worshipping together while apart](https://heisfaithful.github.io/church/2020/03/22/coronavirus6.html) (post 6 -- on church worship when separated)
+- [An assortment of things about COVID-19](https://heisfaithful.github.io/current/events/2020/03/24/coronavirus8.html) (post 8 -- with some resources, personal thoughts, and links to analysis)

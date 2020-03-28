@@ -41,7 +41,7 @@ So, whatever happens, I need to join Bonhoeffer and so many others who have gone
 - [Richard Fernandez calls us to offer an alternative to China's approach](https://pjmedia.com/richardfernandez/world-war-v/) -- how do we offer a way out of what he's calling "World War V" (with "V" for "virus") without becoming a surveillance state which dramatically curtails individual liberties
 - I don't normally agree with many NYT OpEds, but here are a couple more I generally agree with: [All Americans Need to Shelter in Place](https://www.nytimes.com/2020/03/24/opinion/coronavirus-trump-lockdown.html?action=click&module=Opinion&pgtype=Homepage) and [14 Days: That's the most time we have to defeat the coronavirus](https://www.nytimes.com/2020/03/23/opinion/contributors/us-coronavirus-response.html?action=click&module=Opinion&pgtype=Homepage) (though now it'd be 10 days).
 - Some [medical schools are graduating their students early](https://twitter.com/Brief_19/status/1243228684682768386) so they can help
--
+
 
 ---
 
