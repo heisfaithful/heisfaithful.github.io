@@ -19,6 +19,7 @@ The Hopkins dashboard, however, doesn't give the plots I find the most helpful. 
     - [Case and death growth over time by country](https://covid19dashboards.com/covid-compare-permillion/)
     - [Case and testing progress by US state](https://covid19dashboards.com/covid-19-us-case-estimation/) -- gives a window into how well the states are doing at sorting out true case load (and how many cases they have)
     - [Growth predictions for the US](https://covid19dashboards.com/growth-bayes/) from an exponential model; good for understanding how soon things could get really bad.
+- Locally, the [Orange county tracker](https://occovid19.ochealthinfo.com/coronavirus-in-oc) is good.
 
 Are there other particularly helpful resources I should include here?
 
