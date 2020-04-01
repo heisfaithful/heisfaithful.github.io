@@ -1,0 +1,48 @@
+---
+layout: post
+title: Book review of "Bonhoeffer - Pastor, Martyr, Prophet, Spy"
+date:   2020-03-31
+categories: books
+author: David L. Mobley
+---
+
+I just finished Eric Metaxas's excellent biography,
+["Bonhoeffer: Pastor, Martyr, Prophet, Spy"](https://amzn.to/2UPmRkd), and wanted to highly recommend it. I've mentioned it a couple of times already on this blog -- [including how I was challenged by his death](https://heisfaithful.github.io/current/events/2020/03/24/coronavirus8.html) and how he wanted to [worship with his fellow believers even when apart](https://heisfaithful.github.io/church/2020/03/22/coronavirus6.html) -- but it's time to provide a proper review and note some more of the things I took away from the book.
+
+Before launching in to that, I should mention that I "read" this book by listening to it using my [Audible membership](https://amzn.to/3dIyO3Z). With six kids, church involvement, and a fairly demanding job, my schedule is quite packed and I don't get much time to sit and read. However, I run a few hours a week for exercise and, when I combine that with time driving to and from things (ferrying kids around, going to and from church, etc.) in normal times, I find I can get through about 10 hours of audiobook each week, or sometimes a bit more. Right now, that's reduced quite a bit since we're not driving anywhere, but listening while exercising is still there.
+
+## My review of Metaxas's book
+
+On the whole, this is a really excellent and *loving* biography of a Christian hero about whom I knew little. I've heard Bonhoeffer's name thrown around, and heard him quoted, but never knew much about him. It turns out he was a prominent German evangelical theologian in the run up to and during World War II -- a man who first of all loved God and the Scriptures, but also loved and thought deeply about Christian community and the nature of church, community, and fellowship. He also deeply loved his family and his country. As Hitler came to power, he became alarmed by compromises church and society were making to get along with him, which eventually led to him becoming a leader in the "confessing church" and then in what essentially became the German resistance against Hitler.
+
+In the context of Hitler's rise to power, Bonhoeffer wrote and spoke publicly on the role of the church with respect to government. He believed that the church has the God-given responsibility to speak truth to the government and help correct it when it begins to do wrong, and to help those harmed by government policy. I believe he's right. Not only that, but he went against the popular tide and argued that it was the church's responsibility to help reach the Jews with the gospel and bring the Jews into the church -- since the church is neither Jew nor Gentile. In this, he saw it as the church's job to help persecuted Jews.
+
+As time went on, Bonhoeffer became one of a handful of Christian leaders who became convinced it wasn't enough to *speak* against what Hitler was doing; while the Nazis weren't happy with the church speaking against their policies, as long as their speech didn't accomplish anything -- as long as it wasn't backed by any kind of action -- it wasn't a major threat. Eventually, this group decided that the only real option consistent with their faith, as horrible as it seemed, was to find a way to assassinate Hitler. Thus he played a role in several plots over the years to overthrow Hitler, and these ultimately culminated in the [July 20 "Valkyrie" plot](https://en.wikipedia.org/wiki/20_July_plot) which actually detonated a bomb in the same room as Hitler but, due to a quirk in the furniture, failed to kill him.
+
+By the time of this attempt, though, Bonhoeffer had been arrested, in part because of his close connections with other members of the German resistance. After his involvement in these plots became more clear, any chance of him being released was eliminated and he ended up spending more than two years in prison before finally being executed just weeks before the end of the war.
+
+I said that Metaxas's biography is a "loving" one, by which I mean that it's clearly written with great admiration and even love for Bonhoeffer, who seems to have truly been an amazing and admirable man. The story, the man, and his faith are all fascinating, as is the history covered. I ended up personally challenged and inspired in a number of ways, and it left me wanting to read Bonhoeffer's writings firsthand so I can benefit from those as well.
+
+One specific inspiration to take away from this amazing man, and from this book, is a real inspiration to serve God no matter the cost. In some ways, this book illustrates how it's "simple" to do so -- not easy, but simple. Serving an audience of one is much simpler than pleasing the many, and this book is an inspiration to do so.
+
+So, overall, I highly encourage you to read this book, or if you can't read it, pick up the audiobook and listen to it while you do other things -- exercise, cook, or commute. It's a fairly hefty book -- 608 pages in hardback, or a bit over 22 hours as an audiobook -- but it's well worth your time.
+
+It's also worth noting that [Metaxas also wrote an excellent biography on William Wilberforce](https://amzn.to/33YKk6K) who was responsible, probably more than any other person, for ending the slave trade in England. It, too, is very much worth your time.
+
+---
+
+## Additional things I took away from Bonhoeffer's story
+
+### Compromise is dangerous, and patriotism can lead us astray
+
+I want to spend a few minutes reflecting on other insights I gained reading this book. One was on the danger of compromise. In the time of Hitler, most church leaders were unwilling to stand against him, and indeed much of the state Lutheran church at the time went along with his policies. It was a bit of a boiling frog problem -- Hither spoke in an outwardly Christian manner, and at first seemed to support the church, but his underlying beliefs rejected the Bible as the highest authority and he sought to make Mein Kampf the highest authority for the German church, replacing the Bible. But this was a gradual transition, occurring only in small steps, with the first of these being things like excluding Jews from leadership positions in the church, etc. Compromise was easy, at first, and once leaders compromised a little it was easy to go along with each subsequent step.
+
+This was further compounded by trends in nationalism. Many church leaders in the early 1930s felt that nationalism was a way to help restore Germany to its former glory and rebuild the prosperity of the church it had known. Partly, church and religion (especially in the form of the state Lutheran church) had become tied with the national identity, and they saw Germany's prosperity and the church's prosperity as linked. So it was easy to support Hitler's plan for restoring Germany to its former glory at first, especially because persecution of the Jews and war were not an explicit part of this plan. In a way, patriotism was seen as the Christian position, and Hitler and others in Nazi leadership would quote Scripture about the need to submit to governing authorities. Additionally, some saw being German as a fundamental part of their identity, so it was easy to jump from that to seeing a moral need to stand with and support the government.
+
+It's easy for me to see connections to our time, and challenges for me. Do I really see myself as first and foremost a Christian, as I ought to Biblically? Or is being an American a key part of my identity? Which receives my highest loyalty, and what would happen if the government asked me to compromise my beliefs? It's easy to want our country to prosper, as we're part of it -- we live here. But what if, at some point, it's God's will that America decline, or that I oppose its course of action? Would I be patriotic even if it meant compromising my beliefs?
+
+I said the pledge of allegiance recently, and it, too, reminded me of Bonhoeffer. One of Bonhoeffer objections was that Hitler required soldiers to swear an oath of loyalty to [obey Hitler unconditionally](https://en.wikipedia.org/wiki/Hitler_oath), and he was unwilling to so swear. As I said the words of our pledge of allegiance, I realized how small a change it would take to make it so I could not swear it either. If, instead of "I pledge allegiance..." it said "I pledge my highest allegiance...", I could not make that pledge. As a Christian, God commands my highest loyalty and allegiance, and all other allegiances must be subordinate -- whether allegiance to country, family, friends, etc.
+
+### Bonhoeffer challenges my relationship with culture
+
+Bonhoeffer profoundly enjoyed culture and society, from what Metaxas writes. He enjoyed the best in literature, plays, music, the arts, and so on. Yet at the same time, he was in a way apart from these, looking in. His foundation and highest authority seems to have been the Scriptures, so he saw what was wrong with culture, and when it went astray, and he was not afraid to provide correction, or to show where it needed to change. In other words, he seems to have accepted and enjoyed what was good and right about his culture, while fighting against what was harmful. This challenges me in two ways. First, it's appropriate to enjoy what's good about our culture, to have an appreciation for the arts, etc. People are made in God's image, so his good can be reflected in aspects of our culture, and I ought to recognize and appreciate that. At the same time, it challenges me also to be a critic of culture, to recognize where it is Biblical and where it is not, and when to challenge it.
