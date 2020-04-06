@@ -7,7 +7,7 @@ author: David L. Mobley
 ---
 
 
-![An image with tips](images/virtual_bible_study.jpg "Bible study tips")
+![An image with tips](https://heisfaithful.github.io/images/virtual_bible_study.jpg "Bible study tips")
 
 We've moved to doing virtual Bible studies, virtual small groups, etc. It can be tough to try and avoid getting distracted in this format, especially since we're sitting at home at our computer which is not typically where most of us typically are for Bible study. In view of that, a friend from Berean College Ministry created this graphic with some helpful tips.
 
