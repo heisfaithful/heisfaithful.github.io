@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Let's try on another pair of COVID-19 shoes
-date:   2020-03-24
+date:   2020-04-29
 categories: current events
 author: David L. Mobley
 ---
