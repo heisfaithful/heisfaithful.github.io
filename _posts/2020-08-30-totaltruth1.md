@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Total Truth: Some highlights"
-date:   2020-09-30
+date:   2020-08-30
 categories: books
 author: David L. Mobley
 ---
