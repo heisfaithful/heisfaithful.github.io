@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Total Truth: Chapter 1"
+title: "Total Truth: What's in a Worldview?"
 date:   2020-09-03
 categories: books
 author: David L. Mobley
