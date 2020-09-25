@@ -34,7 +34,6 @@ google_analytics: UA-156420822-1
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-paginate
 
 # Pagination
 paginate: 10
