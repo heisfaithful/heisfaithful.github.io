@@ -36,6 +36,10 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
+# Pagination
+paginate: 10
+paginate_path: "/blog/page:num/"
+
 # Disqus comments
 disqus:
     # Leave shortname blank to disable comments site-wide.
