@@ -38,7 +38,10 @@ plugins:
 
 # Pagination
 paginate: 10
-paginate_path: "/blog/page:num/"
+paginate_path: "/posts/page:num/"
+
+gems:
+    jekyll-paginate
 
 # Disqus comments
 disqus:
