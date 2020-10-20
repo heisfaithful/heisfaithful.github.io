@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Total Truth: Surviving the Spiritual Wasteland"
+date:   2020-10-20
+categories: books
+author: David L. Mobley
+---
+
+I'm blogging through Nancy Pearcey's excellent book [Total Truth](https://amzn.to/36AQc5S) as part of a book discussion I've been doing. [Last time, I covered the fourth chapter, which covers quite a bit of ground, including covering some competing worldviews which are common at present](https://heisfaithful.github.io/books/2020/10/13/totaltruth_ch4.html). This time, I'm hitting some highlights from Chapter 5, "Darwin meets the Berenstain Bears", which is the first chapter of "Part II: Starting at the beginning" dealing with origins. This chapter deals with Darwinism -- specifically, the idea of universal common descent -- and some aspects of the evidence about it. As such, it's more familiar material for me and I've got less to say about it. I'll briefly touch on a few key highlights, however.
+
+One point which stood out is how, if Darwinism (and here by that, I mean the idea of universal common descent as proposed by Darwin) is true then religion and philosophical ideas like beauty, truth, goodness, etc., are all fake -- just human inventions. Some of us (and especially those who feel a need for them) may still hang on to them, but they're ultimately just an illusion. This attitude -- of religion as a crutch for the weak -- was predominant where I did my graduate work, though I run into it less often here in a region which is relatively more religious. This, Pearcey notes, gets us back to what she calls the "two story" view of truth -- Darwinism provides the experimentally verifiable facts, etc., and religion/morality provide values that you can decide to believe if you want them.
+
+Evolution on a small (molecular) scale can, of course, accomplish important things -- it's a fact of life in my own research -- but on a large scale, most of the evidence amounts to extrapolation -- we assume that, given enough small-scale changes accumulating over time, we can explain all the diversity we see in nature today. But we can't, of course, run the experiments. And it's precisely experimentation which makes science reliable and allows us to be confident. So this means universal common descent isn't on the same footing as most of the science which serves us so well.
+
+Pearcey ends up noting this, after spending some time discussing what breeders and genetic researchers have found in their experimentation:
+> The limited nature of organic change has been common knowledge among farmers and breeders for centuries. You can breed for faster horses or larger apples, but eventually you reach a boundary that cannot be crossed, no matter how intensively you continue the breeding program. A horse will never be as fast as a cheetah, or an apple as large as a pumpkin... Luther Burbank, perhaps the most famous breeder of all times, suggested that there might even be a natural law that "keeps all living things within some more or less fixed limitations."
+
+Pearcey goes on to note that a lot of the textbook examples of evolution in practice -- the peppered moths example, or the embryo series of Haeckel, or even the finch beaks -- are fakes/staged (in the peppered moth example), exaggerations (embryos) or distortions (for finch beaks) yet are retained in textbooks because they are so persuasive. She also quotes several paleontologists, including Stephen Jay Gould, who noted that the fossil record, as we fill it in, points more and more *away* from what we'd expect from universal common descent -- with new creatures appearing suddenly in the record, rather than as a gradual progression. Roger Lewin wrote in *Science*, Pearcey writes, saying this: "The central question of the Chicago [Macroevolution] conference was whether the mechanisms underlying microevolution can be extrapolated to explain the phenomenon of macroevolution. ... [With some qualifications] the answer can be given as a clear No."
+
+So, why are so many people persuaded by the evidence? Many in the present day regard science as the search for the best purely naturalistic explanation for life around us. And if we are after a purely naturalistic explanation -- which by definition excludes the idea of God -- then something very like evolution simply *must* be true. Pearcey explains:
+> ... [people] are persuaded on other grounds -- on philosophical grounds -- that nature alone *must* be capable of creating all life forms... Once people have made that philosophical commitment, they can be persuaded by relatively minor evidence.
+
+She quotes a professor who wrote in the famous journal *Nature*:
+> Even if all the data point to an intelligent designer, such an hypothesis is excluded from science because it is not naturalistic.
+
+I'll skip ahead over a lot of ground and note that Pearcey goes so far as to argue -- quoting ardent evolutionist Michael Ruse -- that evolution is its own kind of religion. Ruse describes it as "a kind of secular ideology, an explicit substitute for Christianity." She makes the point, then, that teaching evolution (and particularly universal common descent) as a *worldview* in public schools IS teaching a religion.
+
+In any case, there's a lot more to this chapter that I won't go through -- but if you don't know much about the debate in this area, it's worth a read. And regardless, it's important to be very clear about the distinction between microevolution -- which happens routinely and is responsible for things like our desperate need for new antibiotics (due to the evoution of drug resistance in bacteria) -- and macroevolution and universal common descent, which are really just an *idea* about how life might have gotten here without God's help and intervention.
