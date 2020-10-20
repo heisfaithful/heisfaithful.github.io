@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Total Truth: Surviving the Spiritual Wasteland"
+title: "Total Truth: Darwin meets the Berenstain Bears"
 date:   2020-10-20
 categories: books
 author: David L. Mobley
