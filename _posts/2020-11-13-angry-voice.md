@@ -46,7 +46,7 @@ Some of these include evaluating whether the person has healthy relationships wi
 
 > Does this person exhibit any interest in trying to understand the arguments of others or speak carefully about those he means to criticize? I can learn a lot from people who try to persuade.
 
-These are areas where I'd sometimes failed when I blogged previously. I bles things out of proportion at times, and I didn't necessarily carefully engage with the arguments of others and seek to persuade; sometimes I merely criticized.
+These are areas where I'd sometimes failed when I blogged previously. I blew things out of proportion at times, and I didn't necessarily carefully engage with the arguments of others and seek to persuade; sometimes I merely criticized.
 
 ### A couple closing thoughts from the Bible
 
