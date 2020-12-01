@@ -66,4 +66,4 @@ With other vaccines, I trust the medical and regulatory system to only recommend
 
 ---
 
-*Editor: My colleage David Minh (a professor at Illinois Institute of Technology) had this Q&A on his Facebook page and I thought it was valuable, given concerns I've already seen people posting about the coming vaccines. Please feel free to send more questions my way, or his, so we can help everyone make decisions based on good information rather than politics or paranoia.*
+*Editor: My colleage David Minh (a professor at Illinois Institute of Technology) had this Q&A on his Facebook page and I thought it was valuable, given concerns I've already seen people posting about the coming vaccines, so I worked with him to get an edited version posted here. Please feel free to send more questions my way, or his, so we can help everyone make decisions based on good information rather than politics or paranoia.*
