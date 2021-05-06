@@ -1,3 +1,4 @@
+---
 layout: post
 title: "A bit more on vaccine ethics"
 date:   2021-05-05
